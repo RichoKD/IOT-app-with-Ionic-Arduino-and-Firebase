@@ -1,0 +1,10 @@
+{
+  "name": "IOT_DEMO",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    
+    "firebase": "^3.6.6",
+    "johnny-five": "0.10.6"
+  }
+}
