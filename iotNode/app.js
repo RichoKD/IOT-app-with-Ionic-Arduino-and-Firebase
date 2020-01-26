@@ -12,11 +12,11 @@ var snap;
 // Initialize Firebase
 // TODO: Replace with your project's customized code snippet
 var config = {
-    apiKey: "AIzaSyC4LeAobec0Dl2VyVpjovGaq5x3b4C2iJA",
-    authDomain: "auto-30ed0.firebaseapp.com",
-    databaseURL: "https://auto-30ed0.firebaseio.com",
-    storageBucket: "auto-30ed0.appspot.com",
-    messagingSenderId: "514424789161"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: "",
+    messagingSenderId: ""
 };
 
 // Initialize Arduino
